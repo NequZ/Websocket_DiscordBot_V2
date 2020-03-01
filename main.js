@@ -20,3 +20,4 @@ client.on('ready', () => {
 
 // Logging in Discord Bot at the API
 client.login(config.token)
+console.log(config.token)
